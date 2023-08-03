@@ -1,6 +1,6 @@
 {"employees":[    
-    {"id":"0-0000", "name":"Ram", "email":"ram@gmail.com", "age":23},    
-    {"id":"0-0001", "name":"Shyam", "email":"shyam23@gmail.com", "age":28},  
-    {"id":"0-0002", "name":"John", "email":"john@gmail.com", "age":33},    
-    {"id":"0-0003", "name":"Bob", "email":"bob32@gmail.com", "age":41}   
+    {"id":"0-0000", "name":"air controller", "object_type":"air", "specs":"air suppression and filtration"},    
+    {"id":"0-0001", "name":"pipe", "object_type":"piping", "specs":"strong"},  
+    {"id":"0-0002", "name":"pallet jack", "object_type":"consumable", "specs":"heafty"},    
+    {"id":"0-0003", "name":"apollo", "object_type":"system", "specs":"expensive"}   
 ]}
