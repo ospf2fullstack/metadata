@@ -1,12 +1,12 @@
 {"unique-assets":[    
-    {"id":"0-0000", "name":"air controller", "object_type":"air", "specs":"air suppression and filtration"},    
-    {"id":"0-0001", "name":"pipe", "object_type":"piping", "specs":"strong"},  
-    {"id":"0-0002", "name":"pallet jack", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0003", "name":"asset 3", "object_type":"electrical", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0004", "name":"asset 3", "object_type":"infrastructure", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0005", "name":"asset 3", "object_type":"temporary", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0006", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0007", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0008", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"0-0009", "name":"apollo", "object_type":"system", "specs":"expensive"}
+    {"id":"00-0000", "name":"air controller", "object_type":"air", "specs":"air suppression and filtration"},    
+    {"id":"00-0001", "name":"pipe", "object_type":"piping", "specs":"strong"},  
+    {"id":"00-0002", "name":"pallet jack", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0003", "name":"asset 3", "object_type":"electrical", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0004", "name":"asset 3", "object_type":"infrastructure", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0005", "name":"asset 3", "object_type":"temporary", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0006", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0007", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0008", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0009", "name":"apollo", "object_type":"system", "specs":"expensive"}
 ]}
