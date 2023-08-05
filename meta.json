@@ -1,6 +1,6 @@
 {"unique-assets":[    
     {"id":"00-0000", "name":"default_name", "object_type":"default_type", "specs":"default_specs"},    
-    {"id":"00-0001", "name":"pipe", "object_type":"piping", "specs":"strong"},  
+    {"id":"00-0001", "name":"breaker panel", "object_type":"electrical", "specs":"120/240V single phase to 600/347V Wye-connected three-phase, four-wire"},  
     {"id":"00-0002", "name":"pallet jack", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0003", "name":"asset 3", "object_type":"electrical", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0004", "name":"asset 3", "object_type":"infrastructure", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
