@@ -4,9 +4,9 @@
     {"id":"00-0002", "name":"pallet jack", "object_type":"general equipment", "specs":"1500lb load capacity, red"},
     {"id":"00-0003", "name":"Pressure Gauge - Trerice 500x Series", "object_type":"Compressed Air System", "specs":"100PSI, 4.5inch gauge, 3/8inch connect"},
     {"id":"00-0004", "name":"tripod", "object_type":"general equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
-    {"id":"00-0005", "name":"asset 3", "object_type":"temporary", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0006", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0007", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0008", "name":"asset 3", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0005", "name":"asset 5", "object_type":"temporary", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0006", "name":"asset 6", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0007", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0008", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0009", "name":"apollo", "object_type":"system", "specs":"expensive"}
 ]}
