@@ -1,9 +1,9 @@
 {"unique-assets":[    
-    {"id":"00-0000", "name":"default static mesh", "object_type":"UE Asset", "specs":"Unreal Engine 3D Object"},    
-    {"id":"00-0001", "name":"breaker panel", "object_type":"electrical", "specs":"120/240V single phase to 600/347V Wye-connected three-phase, four-wire"},  
-    {"id":"00-0002", "name":"pallet jack", "object_type":"general equipment", "specs":"1500lb load capacity, red"},
+    {"id":"00-0000", "name":"Default Static Mesh", "object_type":"UE Asset", "specs":"Unreal Engine 3D Object"},    
+    {"id":"00-0001", "name":"Breaker Panel", "object_type":"Electrical", "specs":"120/240V single phase to 600/347V Wye-connected three-phase, four-wire"},  
+    {"id":"00-0002", "name":"Pallet Jack", "object_type":"General Gquipment", "specs":"1500lb load capacity, red"},
     {"id":"00-0003", "name":"Pressure Gauge - Trerice 500x Series", "object_type":"Compressed Air System", "specs":"100PSI, 4.5inch gauge, half inch connect"},
-    {"id":"00-0004", "name":"tripod", "object_type":"general equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
+    {"id":"00-0004", "name":"Tripod", "object_type":"General Equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
     {"id":"00-0005", "name":"asset 5", "object_type":"temporary", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0006", "name":"asset 6", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0007", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
