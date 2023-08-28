@@ -1,12 +1,12 @@
 {"unique-assets":[    
-    {"id":"00-0000", "name":"Default Static Mesh", "object_type":"UE Asset", "specs":"Unreal Engine 3D Object"},    
-    {"id":"00-0001", "name":"Breaker Panel", "object_type":"Electrical", "specs":"120/240V single phase to 600/347V Wye-connected three-phase, four-wire"},  
-    {"id":"00-0002", "name":"Pallet Jack", "object_type":"General Gquipment", "specs":"1500lb load capacity, red"},
-    {"id":"00-0003", "name":"Pressure Gauge - Trerice 500x Series", "object_type":"Compressed Air System", "specs":"100PSI, 4.5inch gauge, half inch connect"},
-    {"id":"00-0004", "name":"Tripod", "object_type":"General Equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
-    {"id":"00-0005", "name":"Tooling Assembly", "object_type":"Stand", "specs":"Blue, 10 Ton, Cone Assy"},
-    {"id":"00-0006", "name":"asset 6", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0007", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0008", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0009", "name":"apollo", "object_type":"system", "specs":"expensive"}
+    {"id":"00-0000", "lod":"000", "name":"Default Static Mesh", "object_type":"UE Asset", "specs":"Unreal Engine 3D Object"},    
+    {"id":"00-0001", "lod":"200", "name":"Breaker Panel", "object_type":"Electrical", "specs":"120/240V single phase to 600/347V Wye-connected three-phase, four-wire"},  
+    {"id":"00-0002", "lod":"100", "name":"Pallet Jack", "object_type":"General Gquipment", "specs":"1500lb load capacity, red"},
+    {"id":"00-0003", "lod":"200", "name":"Pressure Gauge - Trerice 500x Series", "object_type":"Compressed Air System", "specs":"100PSI, 4.5inch gauge, half inch connect"},
+    {"id":"00-0004", "lod":"200", "name":"Tripod", "object_type":"General Equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
+    {"id":"00-0005", "lod":"200", "name":"Tooling Assembly", "object_type":"Stand", "specs":"Blue, 10 Ton, Cone Assy"},
+    {"id":"00-0006", "lod":"200", "name":"asset 6", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0007", "lod":"200", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0008", "lod":"200", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
+    {"id":"00-0009", "lod":"400", "name":"apollo", "object_type":"system", "specs":"expensive"}
 ]}
