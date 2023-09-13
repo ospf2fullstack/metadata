@@ -8,5 +8,6 @@
     {"id":"00-0006", "lod":"200", "name":"Crane Type 1", "object_type":"electrical", "specs":"5-ton, Dual Girder Bridge Crane, 20-ton Wire Rope, 50ft max bridge expansion, 460volt 3-phase power"},
     {"id":"00-0007", "lod":"200", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0008", "lod":"200", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
-    {"id":"00-0009", "lod":"400", "name":"apollo", "object_type":"system", "specs":"expensive"}
+    {"id":"00-0009", "lod":"400", "name":"apollo", "object_type":"system", "specs":"expensive"},
+    {"id":"00-0010", "lod":"400", "name":"Robotic Welder", "object_type":"tool", "specs":"Robotic Friction Weld Arm"}
 ]}
