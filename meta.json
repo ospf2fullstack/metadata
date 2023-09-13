@@ -9,5 +9,10 @@
     {"id":"00-0007", "lod":"200", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0008", "lod":"200", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0009", "lod":"400", "name":"apollo", "object_type":"system", "specs":"expensive"},
-    {"id":"00-0010", "lod":"400", "name":"Robotic Welder", "object_type":"tool", "specs":"Robotic Friction Weld Arm"}
+    {"id":"00-0010", "lod":"400", "name":"Robotic Welder", "object_type":"tool", "specs":"Robotic Friction Weld Arm"},
+    {"id":"00-0011", "lod":"500", "name":"Artemis Sign", "object_type":"sign", "specs":"NASA Artemis 'to the moon' signage"},
+    {"id":"00-0012", "lod":"400", "name":"Black Chainlink Fence", "object_type":"safety", "specs":"Black Chainlinked Fence - steel."},
+    {"id":"00-0013", "lod":"200", "name":"Transporter", "object_type":"transport", "specs":"Large format cylinder transport platform. 25 ton capacity."},
+    {"id":"00-0014", "lod":"200", "name":"Cylinder", "object_type":"product", "specs":"Cylinder Section #2 for stage 2.5 assy. Air craft quality steel. "},
+    {"id":"00-0015", "lod":"400", "name":"HVAC", "object_type":"airQuality", "specs":"HVAC Ducting with blue vent covers. "}
 ]}
