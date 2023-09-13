@@ -5,7 +5,7 @@
     {"id":"00-0003", "lod":"200", "name":"Pressure Gauge - Trerice 500x Series", "object_type":"Compressed Air System", "specs":"100PSI, 4.5inch gauge, half inch connect"},
     {"id":"00-0004", "lod":"200", "name":"Tripod", "object_type":"General Equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
     {"id":"00-0005", "lod":"200", "name":"Tooling Assembly", "object_type":"Stand", "specs":"Blue, 10 Ton, Cone Assy"},
-    {"id":"00-0006", "lod":"200", "name":"Crane Type 1", "object_type":"electrical", "specs":"5-ton, Dual Girder Bridge Crane, 20-ton Wire Rope, 50ft max bridge expansion, 460volt 3-phase power"},
+    {"id":"00-0006", "lod":"200", "name":"Crane Type 1", "object_type":"production", "specs":"5-ton, Dual Girder Bridge Crane, 20-ton Wire Rope, 50ft max bridge expansion, 460volt 3-phase power"},
     {"id":"00-0007", "lod":"200", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0008", "lod":"200", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0009", "lod":"400", "name":"apollo", "object_type":"system", "specs":"expensive"},
@@ -23,5 +23,7 @@
     {"id":"00-0021", "lod":"200", "name":"Mobile Welder", "object_type":"tool", "specs":"The Rhino Cart all-in-one Mobile Welding Cart puts both roomy tool storage space and a large work Reversible tabletop with nitrided black oxide protective finish for wear, rust, and weld spatter resistance. Steel legs are equipped with four locking casters and leveling feet for mobile or stationary use. Welding Table, 48' x 30' , 36' height, 5/8' thickness, ∅5/8' hole, 2' x 2' grid pattern, 1500 lb. static loading capacity."},
     {"id":"00-0022", "lod":"200", "name":"Circumferential dome weld tool", "object_type":"tool", "specs":"The Circumferential Dome Weld Tool will be used to perform circumferential friction stir welds in the production of dome assemblies for the SLS core stage cryogenic tanks."},
     {"id":"00-0023", "lod":"200", "name":"Gore Weld Tool", "object_type":"tool", "specs":"The Gore Weld Tool will perform vertical conventional friction stir welds in the production of gore assemblies for the SLS core stage tanks. Gores are preformed aluminum alloy dome segments that are welded together to make the dome."},
-    {"id":"00-0024", "lod":"200", "name":"Rails Type 2", "object_type":"safety", "specs":"Yellow safety rail system."}
+    {"id":"00-0024", "lod":"200", "name":"Rails Type 2", "object_type":"safety", "specs":"Yellow safety rail system."},
+    {"id":"00-0025", "lod":"200", "name":"Weight Block", "object_type":"prop", "specs":"Crane System prop"},
+    {"id":"00-0026", "lod":"200", "name":"Crane Type 2", "object_type":"production", "specs":"Production Crane Type 2 - JIB"}
 ]}
