@@ -4,7 +4,7 @@
     {"id":"00-0002", "lod":"100", "name":"Pallet Jack", "object_type":"General Gquipment", "specs":"1500lb load capacity, red"},
     {"id":"00-0003", "lod":"200", "name":"Pressure Gauge - Trerice 500x Series", "object_type":"Compressed Air System", "specs":"100PSI, 4.5inch gauge, half inch connect"},
     {"id":"00-0004", "lod":"200", "name":"Tripod", "object_type":"General Equipment", "specs":"heavy duty, aluminum and carbon tripod with faro focus scanner mount"},
-    {"id":"00-0005", "lod":"200", "name":"Tooling Assembly", "object_type":"Stand", "specs":"Blue, 10 Ton, Cone Assy"},
+    {"id":"00-0005", "lod":"400", "name":"Forward Adapter Assembly Tool", "object_type":"production", "specs":"Tool WT: 20000lbs, Made By: BDS STL, Person Limit: 15"},
     {"id":"00-0006", "lod":"200", "name":"Crane Type 1", "object_type":"production", "specs":"5-ton, Dual Girder Bridge Crane, 20-ton Wire Rope, 50ft max bridge expansion, 460volt 3-phase power"},
     {"id":"00-0007", "lod":"200", "name":"asset 7", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
     {"id":"00-0008", "lod":"200", "name":"asset 8", "object_type":"consumable", "specs":"sighing jolly slapstick unfitted frivolous dynamic browbeat osmosis"},
