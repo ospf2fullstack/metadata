@@ -26,8 +26,8 @@
     {"id":"00-0024", "lod":"200", "name":"Rails Type 2", "object_type":"safety", "specs":"Yellow safety rail system."},
     {"id":"00-0025", "lod":"200", "name":"Weight Block", "object_type":"prop", "specs":"Crane System prop"},
     {"id":"00-0026", "lod":"200", "name":"Crane Type 2", "object_type":"production", "specs":"Production Crane Type 2 - JIB"},
-    {"id":"00-0027", "lod":"200", "name":"Weight Block", "object_type":"prop", "specs":"Crane System prop"},
-    {"id":"00-0028", "lod":"200", "name":"Weight Block", "object_type":"prop", "specs":"Crane System prop"},
-    {"id":"00-0029", "lod":"200", "name":"Weight Block", "object_type":"prop", "specs":"Crane System prop"},
-    {"id":"00-0030", "lod":"200", "name":"Weight Block", "object_type":"prop", "specs":"Crane System prop"}
+    {"id":"00-0027", "lod":"200", "name":"LH2 Tank Assembly Tool", "object_type":"production", "specs":"Crane System prop"},
+    {"id":"00-0028", "lod":"200", "name":"Midbody Assembly Tool", "object_type":"production", "specs":"Crane System prop"},
+    {"id":"00-0029", "lod":"200", "name":"LOX Tank Assembly Tool", "object_type":"production", "specs":"Crane System prop"},
+    {"id":"00-0030", "lod":"200", "name":"Forward Adapter Assembly Tool", "object_type":"production", "specs":"Crane System prop"}
 ]}
