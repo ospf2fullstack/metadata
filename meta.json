@@ -30,5 +30,5 @@
     {"id":"00-0028", "lod":"300", "name":"Midbody Assembly Tool", "object_type":"production", "specs":"Tool WT: 18200lbs, Platform 1 of 109, Made By: BDS STL , Working Load Limit: 440lbs"},
     {"id":"00-0029", "lod":"200", "name":"LOX Tank Assembly Tool", "object_type":"production", "specs":"Tool WT: 54128lbs, Made By: BDS STL, PLatform 1 of 35, Max Speed: 1mph"},
     {"id":"00-0030", "lod":"400", "name":"Forward Adapter Assembly Tool", "object_type":"production", "specs":"Tool WT: 20000lbs, Made By: BDS STL, Person Limit: 15"}
-    {"id":"00-0031", "lod":"200", "name":"Room 103 B2", "object_type":"column", "specs":"building column"}
+    {"id":"00-0031", "lod":"200", "name":"B103-B2", "object_type":"column", "specs":"building column"}
 ]}
